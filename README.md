@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Estoque </h1>
+<h1 align="center"> Projeto Canil </h1>
 
 <h3>🧾 Descrição</h3>
 Um projeto em node de um site com filtro para busca de animais em categorias
