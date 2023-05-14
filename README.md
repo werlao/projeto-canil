@@ -1,11 +1,10 @@
-# nodets-canil
-Teste Projeto
+<h1 align="center"> Projeto Estoque </h1>
 
-### Pré-requisitos globais:
-`npm i -g nodemon typesctipt ts-node`
+<h3>🧾 Descrição</h3>
+Um projeto em node de um site com filtro para busca de animais em categorias
 
-### Instalação
-`npm install`
+<h3>🌎 Requisitos globais</h3>
+npm i -g nodemon typesctipt ts-node
 
-### Para rodar
-`npm run start-dev`
+<h3>💻 Tecnologias utilizadas:</h3>
+MUSTACHE, CSS, NODEJS, TS
